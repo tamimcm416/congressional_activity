@@ -33,7 +33,6 @@ Data prep and exploration was completed using Python in JupyterLab. </br>
 | :------------------------------- | :----------------------------------------------------------------------------- |
 | data                             | Folder containing original data files and scrubbed output                      |
 | notebooks                        | Jupyter notebooks containing data prep code and EDA                            |
-| project_documentation            | Folder containing project plan, requirements, data schema, etc.                |
 
 
 </br>
