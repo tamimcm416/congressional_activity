@@ -31,9 +31,9 @@ Data prep and exploration was completed using Python in JupyterLab. </br>
 
 | Name                             | Description                                                                    |
 | :------------------------------- | :----------------------------------------------------------------------------- |
-| data                             | Folder containing original data files and prepped files for input to Tableau   |
-| notebooks                        | Folder containing data prep Jupyter notebook containing data prep code         |
-| project_documentation            | Forder containing project plan, requirements, data schema, etc.                |
+| data                             | Folder containing original data files and scrubbed output                      |
+| notebooks                        | Jupyter notebooks containing data prep code and EDA                            |
+| project_documentation            | Folder containing project plan, requirements, data schema, etc.                |
 
 
 </br>
