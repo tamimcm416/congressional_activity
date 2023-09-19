@@ -43,4 +43,4 @@ Data prep and exploration was completed using Python in JupyterLab. </br>
 | Asset                                    | License / Use Policy         |
 | :--------------------------------------- | :--------------------------- |
 | Original Code                            | MIT License                  |
-| Congressional Activity, Partisan Makeup  | Federal Open Data Policy     |
+| Congressional Activity                   | Federal Open Data Policy     |
