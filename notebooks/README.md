@@ -2,4 +2,4 @@
 
 | Name                                                     | Description                                                                         |
 | :------------------------------------------------------- | :---------------------------------------------------------------------------------- |
-| DataPrep.ipynb                                           | Jupyter Lab notebook containing code for scrubbing the raw data                     |
+| DataPrep.ipynb                                           | Reads in raw data from a Excel, tidies the data and exports to Excel                |
