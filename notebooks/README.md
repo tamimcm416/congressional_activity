@@ -1,5 +1,7 @@
 # File Descriptions
 
-| Name                                                     | Description                                                                         |
-| :------------------------------------------------------- | :---------------------------------------------------------------------------------- |
-| DataPrep.ipynb                                           | Reads in raw data from Excel, tidies the data and exports to Excel                |
+| Name                                                | Description                                                                         |
+| :-------------------------------------------------- | :---------------------------------------------------------------------------------- |
+| DataPrepConfirmations.ipynb                         | Reads in and tides confirmations data, outputs 'Confirmations Data - Scrubbed.xlsx' |
+| DataPrepDemographics.ipynb                          | Reads in and tides confirmations data, outputs 'Confirmations Data - Scrubbed.xlsx' |
+| DataPrepGeneralActivity.ipynb                       | Reads in and tides confirmations data, outputs 'Confirmations Data - Scrubbed.xlsx' |
