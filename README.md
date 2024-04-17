@@ -9,10 +9,11 @@ This data analysis project looks at the activities of Congress over time.
 
 | Source                          | Description                               | Link                                                                    |
 | :------------------------------ | :---------------------------------------- | :---------------------------------------------------------------------- |
+| GitHub Repository               | Congressional activity data               | [GitHub](https://github.com/tamimcm416/congressional_data_scrape)       |
 | US Senate Web Site              | Appropriations data                       | [US Senate Web Site](https://www.senate.gov/)                           |
 | Congressional Research Service  | Appropriations data                       | [Congressional Research Service](https://www.crsreports.congress.gov/)  |
 | Library of Congress             | Legislation                               | [US Senate Web Site](https://www.senate.gov/)                           |
-| GitHub Repository               | Congressional activity data               | [GitHub](https://github.com/tamimcm416/congressional_data_scrape)       |
+
 
 
 
