@@ -2,6 +2,5 @@
 
 | Name                                                | Description                                                                            |
 | :-------------------------------------------------- | :------------------------------------------------------------------------------------- |
-| DataPrepConfirmations.ipynb                         | Reads in and tides confirmations data, outputs 'Confirmations Data - Scrubbed.xlsx'    |
-| DataPrepDemographics.ipynb                          | Reads in and tides confirmations data, outputs 'Demographics Data - Scrubbed.xlsx'     |
-| DataPrepGeneralActivity.ipynb                       | Reads in and tides confirmations data, outputs 'General Activity Data - Scrubbed.xlsx' |
+| data_prep_demographics.ipynb                        | Reads and tidies demographics data published from the Brookings Institute              |
+| trend_analysis.ipynb                                | Analyzes all project data for trends and correlations                                  |
