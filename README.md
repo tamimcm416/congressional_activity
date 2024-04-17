@@ -7,9 +7,13 @@ This data analysis project looks at the activities of Congress over time.
 
 ## Data Sources
 
-| Source                          | Description                                               | Link                                                        |
-| :------------------------------ | :-------------------------------------------------------- | :---------------------------------------------------------- |
-| US Senate Web Site              | Resumes of Congressional Activity, Senate Partison Makeup | [US Senate Web Site](https://www.senate.gov/)               |
+| Source                          | Description                               | Link                                                                    |
+| :------------------------------ | :---------------------------------------- | :---------------------------------------------------------------------- |
+| US Senate Web Site              | Appropriations data                       | [US Senate Web Site](https://www.senate.gov/)                           |
+| Congressional Research Service  | Appropriations data                       | [Congressional Research Service](https://www.crsreports.congress.gov/)  |
+| Library of Congress             | Legislation                               | [US Senate Web Site](https://www.senate.gov/)                           |
+| GitHub Repository               | Congressional activity data               | [GitHub](https://github.com/tamimcm416/congressional_data_scrape)       |
+
 
 
 </br> 
@@ -20,19 +24,22 @@ Data prep and exploration was completed using Python in JupyterLab. </br>
 
 | Tool / Library  | Version |
 | :-------------  | :------ |
-| Python          | 3.9.12  |
-| JupyterLab      | 3.3.2   |
-| Pandas          | 1.4.2   |
+| Python          | 3.12.2  |
+| JupyterLab      | 4.1.2   |
+| Pandas          | 2.2.0   |
+| Matplotlib      | 3.8.3   |
+| Seaborn         | 0.13.2  |
 
 
 </br> 
 
 ## File Descriptions
 
-| Name                             | Description                                                                    |
-| :------------------------------- | :----------------------------------------------------------------------------- |
-| data                             | Folder containing original data files and scrubbed output                      |
-| notebooks                        | Jupyter notebooks containing data prep code and EDA                            |
+| Name                                       | Description                                                                    |
+| :----------------------------------------- | :----------------------------------------------------------------------------- |
+| data                                       | Folder containing original data files and scrubbed output                      |
+| notebooks                                  | Jupyter notebooks containing data prep code and EDA                            |
+| Congressional Activity Presentation.pptx   | Project description and findings                                               |
 
 
 </br>
