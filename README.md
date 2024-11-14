@@ -40,7 +40,7 @@ Data prep and exploration was completed using Python in JupyterLab. </br>
 | :----------------------------------------- | :----------------------------------------------------------------------------- |
 | data                                       | Folder containing original data files and scrubbed output                      |
 | notebooks                                  | Jupyter notebooks containing data prep code and EDA                            |
-| Congressional Activity Presentation.pptx   | Project description and findings                                               |
+| Congressional Activity Presentation.pdf    | Project description and findings, created in PowerPoint, saved in PDF          |
 
 
 </br>
